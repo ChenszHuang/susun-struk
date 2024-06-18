@@ -1,3 +1,4 @@
+#terlebih dahulu pip install pandas / pip install pyxlsb / xlsxwriter
 import pandas as pd
 
 def read_xlsb(filename):
